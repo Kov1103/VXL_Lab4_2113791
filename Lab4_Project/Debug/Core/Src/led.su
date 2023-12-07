@@ -1,0 +1,5 @@
+led.c:12:6:blink_GREEN	8	static
+led.c:16:6:blink_AQUA	8	static
+led.c:20:6:blink_PINK	8	static
+led.c:24:6:blink_RED	8	static
+led.c:28:6:blink_YELLOW	8	static
